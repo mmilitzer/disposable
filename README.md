@@ -39,6 +39,7 @@ Fetched 1110 domains
 
 ### Credits
 
+-	https://github.com/andreis
 -	https://github.com/adamloving
 -	https://github.com/michenriksen
 -	https://github.com/ivolo
