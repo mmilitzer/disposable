@@ -28,7 +28,7 @@ curl https://raw.githubusercontent.com/mmilitzer/disposable/master/domains.json
 
 ### Update the list of domains
 
-To update the list of domains run `.generate` (requires `python3`), and optionally submit a PR.
+To update the list of domains run `.generate` (requires `python 2.7`), and optionally submit a PR.
 
 ```lang=bash
 $ ./.generate
