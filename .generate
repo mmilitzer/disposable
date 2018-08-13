@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 import json
 import re
@@ -15,8 +15,7 @@ class disposableHostGenerator():
                   'https://raw.githubusercontent.com/andreis/disposable/master/blacklist.txt',
                   'https://raw.githubusercontent.com/mmilitzer/disposable/master/mailcom_highrisk.txt' ],
         'file': [ 'blacklist.txt' ],
-        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json',
-                  'https://api.temp-mail.ru/request/domains/format/json/' ],
+        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json' ],
         'sha1': [ 'https://raw.githubusercontent.com/GeroldSetz/Mailinator-Domains/master/mailinator_domains_from_bdea.cc.txt' ],
         'discard.email': [ 'https://tempr.email/about-getDomains=55bea3fee498cb80f4d3060b738a5936.htm' ],
         'option-select-box': [ 'https://temp-mail.org/en/option/change/', 'https://spamwc.de/' ]
