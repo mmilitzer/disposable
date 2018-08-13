@@ -33,7 +33,7 @@ To update the list of domains run `.generate` (requires `python 2.7`), and optio
 ```lang=bash
 $ ./.generate
 Fetched 1110 domains
- - 312 domain(s) added
+ - 311 domain(s) added
  - 110 domain(s) removed
 ```
 
