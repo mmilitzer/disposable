@@ -1116,6 +1116,7 @@ domforfb9.tk
 domozmail.com
 donemail.ru
 dongqing365.com
+donot-reply.com
 dontreg.com
 dontsendmespam.de
 doquier.tk
@@ -1150,6 +1151,7 @@ drynic.com
 dsiay.com
 dspwebservices.com
 dt.com
+dtools.info
 duam.net
 dublin.com
 duck2.club
@@ -4023,7 +4025,6 @@ tucumcaritonite.com
 tug.minecraftrabbithole.com
 turoid.com
 turual.com
-tutanota.com
 tvchd.com
 tverya.com
 tvstar.com
