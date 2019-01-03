@@ -659,7 +659,6 @@ btc.email
 btcmail.pw
 btizet.pl
 budaya-tionghoa.com
-budayationghoa.com
 buffemail.com
 bugmenever.com
 bugmenot.com
@@ -2913,7 +2912,6 @@ peapz.com
 pecdo.com
 pecinan.com
 pecinan.net
-pecinan.org
 pediatrician.com
 pedimed-szczecin.pl
 pencalc.xyz
