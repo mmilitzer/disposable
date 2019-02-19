@@ -18,8 +18,6 @@
 0x00.name
 0x207.info
 1-8.biz
-1.tempremail.cf
-1.tempremail.tk
 1000rebates.stream
 100likers.com
 10host.top
@@ -83,10 +81,7 @@
 1webmail.info
 1zhuan.com
 2-ch.space
-2.cum.sborra.tk
 2.emailfake.ml
-2.safemail.cf
-2.safemail.tk
 2.sexymail.ooo
 2.tebwinsoi.ooo
 2000rebates.stream
@@ -210,8 +205,6 @@
 9q.ro
 a-bc.net
 a.a.fbmail.usa.cc
-a.tempremail.cf
-a.tempremail.tk
 a0.igg.biz
 a0f7ukc.com
 a1.usa.cc
@@ -313,6 +306,7 @@ akapost.com
 akash9.gq
 akerd.com
 akgq701.com
+akkecuwa.ga
 akorde.al
 aktiefmail.nl
 al-qaeda.us
@@ -375,6 +369,7 @@ amberwe.us
 ambiancewe.us
 ambitiouswe.us
 amelabs.com
+ameraldmail.com
 americamail.com
 americanawe.us
 americasbestwe.us
@@ -473,6 +468,7 @@ ashleyandrew.com
 asia-mail.com
 asia.com
 asiarap.usa.cc
+ask-mail.com
 asooemail.net
 asorent.com
 ass.pp.ua
@@ -571,6 +567,7 @@ beo.kr
 berlin.com
 bestchoiceusedcar.com
 bestoption25.club
+bestpieter.com
 bestvpn.top
 betr.co
 bfo.kr
@@ -746,6 +743,7 @@ centermail.net
 central-servers.xyz
 centrallosana.ga
 cetpass.com
+cex1z9qo.cf
 cfo2go.ro
 ch.tc
 chacuo.net
@@ -907,7 +905,6 @@ ctos.ch
 cu.cc
 cubiclink.com
 cultmovie.com
-cum.sborra.tk
 cumallover.me
 curlhph.tk
 curryworld.de
@@ -962,7 +959,6 @@ ddnsfree.com
 ddosed.us
 de-a.org
 de-fake.instafly.cf
-de.newhorizons.gq
 de.sytes.net
 deadaddress.com
 deadchildren.org
@@ -1009,6 +1005,8 @@ diapaulpainting.com
 dicksinhisan.us
 dicksinmyan.us
 digdown.xyz
+digital-message.com
+digitalmail.info
 digitalmariachis.com
 digitalsanctuary.com
 dildosfromspace.com
@@ -1016,6 +1014,7 @@ dim-coin.com
 dingbone.com
 dinkmail.com
 diplomats.com
+directmail24.net
 disaq.com
 disario.info
 disbox.net
@@ -1285,6 +1284,7 @@ enterto.com
 enu.kr
 envy17.com
 eny.kr
+eoffice.top
 eonmech.com
 eos2mail.com
 epb.ro
@@ -1315,6 +1315,8 @@ etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
+eu.dlink.cf
+eu.dlink.gq
 euaqa.com
 europe.com
 europemail.com
@@ -1341,7 +1343,6 @@ ezstest.com
 f.moza.pl
 f4k.es
 f5.si
-fabia.skodaauto.cf
 facebook-email.cf
 facebook-email.ga
 facebook-email.ml
@@ -1482,6 +1483,7 @@ freecat.net
 freechristianbookstore.com
 freedompop.us
 freefattymovies.com
+freehotmail.net
 freeinbox.email
 freelance-france.eu
 freeletter.me
@@ -1979,6 +1981,7 @@ isukrainestillacountry.com
 it7.ovh
 italymail.com
 itis0k.com
+itks6xvn.gq
 itmtx.com
 its0k.com
 itsme.edu.pl
@@ -2029,7 +2032,6 @@ jsonp.ro
 jsrsolutions.com
 jswfdb48z.com
 jto.kr
-jumonji.tk
 jungkamushukum.com
 junk.to
 junk1e.com
@@ -2264,9 +2266,6 @@ lukop.dk
 luo.kr
 luv2.us
 lyfestylecreditsolutions.com
-m.u-torrent.cf
-m.u-torrent.ga
-m.u-torrent.gq
 m0.guardmail.cf
 m1.guardmail.cf
 m2.guardmail.cf
@@ -2290,8 +2289,10 @@ mail-apps.com
 mail-easy.fr
 mail-fake.com
 mail-filter.com
+mail-hub.info
 mail-me.com
 mail-owl.com
+mail-share.com
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
@@ -2440,6 +2441,7 @@ mailorg.org
 mailox.biz
 mailpick.biz
 mailpooch.com
+mailpost.gq
 mailprotech.com
 mailproxsy.com
 mailquack.com
@@ -2665,6 +2667,7 @@ myindohome.services
 myinterserver.ml
 mykickassideas.com
 myletter.online
+myloans.space
 mymail-in.net
 mymail90.com
 mymailbest.com
@@ -2695,6 +2698,7 @@ mytempemail.com
 mytempmail.com
 mythnick.club
 mytrashmail.com
+mytrommleronline.com
 mywarnernet.net
 myzx.com
 n1nja.org
@@ -2714,7 +2718,6 @@ nastything.com
 nationalgardeningclub.com
 naturalious.com
 nbox.notif.me
-nc2aaqsf.ga
 nctuiem.xyz
 nebraska.usa.com
 negated.com
@@ -2727,7 +2730,6 @@ nervmich.net
 nervtmich.net
 net-shopping.com
 net.ua
-netmail-pro.com
 netmails.com
 netmails.info
 netmails.net
@@ -2749,6 +2751,7 @@ newyork.usa.com
 next-mail.online
 next.ovh
 next2cloud.info
+nextmail.info
 nextstopvalhalla.com
 nezdiro.org
 nezzart.com
@@ -2861,7 +2864,6 @@ obo.kr
 obobbo.com
 obxpestcontrol.com
 oceancares.xyz
-octavia.skodaauto.cf
 odaymail.com
 odnorazovoe.ru
 oerpub.org
@@ -3090,7 +3092,6 @@ purelogistics.org
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
-pw.epac.to
 pw.islam.igg.biz
 pwp.lv
 pwrby.com
@@ -3273,6 +3274,7 @@ safetymail.info
 safetypost.de
 safrica.com
 saharanightstempe.com
+saigonmail.us
 saintly.com
 salesperson.net
 salmeow.tk
@@ -3601,10 +3603,6 @@ streamfly.biz
 streamfly.link
 streetwisemail.com
 stromox.com
-sts.ansaldo.cf
-sts.ansaldo.ga
-sts.ansaldo.gq
-sts.ansaldo.ml
 stuckmail.com
 studiopolka.tokyo
 stuffmail.de
@@ -3662,6 +3660,7 @@ tapchicuoihoi.com
 tarzanmail.cf
 tarzanmail.ml
 taskforcetech.com
+tastyemail.xyz
 taylorventuresllc.com
 tb-on-line.net
 tdf-illustration.com
@@ -3779,6 +3778,7 @@ throwawaymail.com
 throya.com
 thunkinator.org
 thxmate.com
+thzhhe5l.ml
 tic.ec
 ticket-please.ga
 tijdelijkmailadres.nl
@@ -3798,6 +3798,7 @@ tko.kr
 tlpn.org
 tm.slsrs.ru
 tm2mail.com
+tm42.gq
 tmail.com
 tmail.ws
 tmailinator.com
@@ -3973,6 +3974,8 @@ urfey.com
 urfunktion.se
 uroid.com
 us.af
+us.dlink.cf
+us.dlink.gq
 us.to
 usa.cc
 usa.com
@@ -4116,6 +4119,7 @@ webarnak.fr.eu.org
 webcontact-france.eu
 webemail.me
 webm4il.info
+webmail24.top
 webmails.top
 webmeetme.com
 webname.com
@@ -4195,6 +4199,8 @@ wolfsmail.tk
 wolfsmails.tk
 wollan.info
 worker.com
+workflowy.cn
+workflowy.top
 workmail.com
 worldspace.link
 wormseo.cn
@@ -4221,11 +4227,6 @@ wxnw.net
 wyoming.usa.com
 wyvernia.net
 wzukltd.com
-x.ansaldobreda.cf
-x.ansaldobreda.ga
-x.ansaldobreda.gq
-x.ansaldobreda.ml
-x.ansaldobreda.tk
 x.ip6.li
 x1x.spb.ru
 x1x22716.com
@@ -4239,6 +4240,7 @@ xcode.ro
 xcodes.net
 xcompress.com
 xcpy.com
+xeb9xwp7.tk
 xemaps.com
 xents.com
 xgmailoo.com
@@ -4330,11 +4332,7 @@ yugasandrika.com
 yui.it
 yuoia.com
 yuurok.com
-yx48bxdv.cf
 yx48bxdv.ga
-yx48bxdv.gq
-yx48bxdv.ml
-yx48bxdv.tk
 yxzx.net
 yy-h2.nut.cc
 yyhmail.com
