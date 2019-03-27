@@ -1736,7 +1736,6 @@ giacmosuaviet.info
 giaiphapmuasam.com
 giantmail.de
 gibit.us
-gift-link.com
 gifto12.com
 ginzi.be
 ginzi.co.uk
@@ -2603,7 +2602,6 @@ mailexpire.com
 mailf5.com
 mailfa.tk
 mailfall.com
-mailfavorite.com
 mailfish.de
 mailformail.com
 mailforspam.com
@@ -2919,7 +2917,6 @@ myde.ml
 mydemo.equipment
 myecho.es
 myemailboxy.com
-myfavorite.info
 myfreemail.space
 mygeoweb.info
 myindohome.services
@@ -2996,7 +2993,6 @@ nervmich.net
 nervtmich.net
 net-list.com
 net-shopping.com
-net-solution.info
 net.ua
 netmails.com
 netmails.info
@@ -3004,8 +3000,6 @@ netmails.net
 netricity.nl
 netris.net
 netviewer-france.com
-network-source.com
-networkapps.info
 netzidiot.de
 nevada.usa.com
 neverbox.com
@@ -3285,7 +3279,6 @@ pinehill-seattle.org
 pingir.com
 pisls.com
 pjjkp.com
-placemail.online
 planetmail.com
 planetmail.net
 playful.com
@@ -3330,7 +3323,6 @@ post.com
 posta.store
 postacin.com
 postalmail.biz
-postemail.net
 postfach2go.de
 postonline.me
 poutineyourface.com
@@ -4514,7 +4506,6 @@ web-mail.pp.ua
 web.id
 web2mailco.com
 webarnak.fr.eu.org
-webaward.online
 webcontact-france.eu
 webemail.me
 webm4il.info
@@ -4606,7 +4597,6 @@ worker.com
 workflowy.cn
 workflowy.top
 workmail.com
-world-travel.online
 worldspace.link
 wormseo.cn
 wovz.cu.cc
