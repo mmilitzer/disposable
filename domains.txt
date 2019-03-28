@@ -169,6 +169,7 @@
 4warding.com
 4warding.net
 4warding.org
+5-mail.info
 50saleclub.com
 510520.org
 54np.club
@@ -752,6 +753,7 @@ burnthespam.info
 burstmail.info
 businessbackend.com
 businesscredit.xyz
+businesssource.net
 businesssuccessislifesuccess.com
 buspad.org
 bussitussi.com
@@ -1096,6 +1098,7 @@ dicksinhisan.us
 dicksinmyan.us
 digdown.xyz
 digital-message.com
+digital-work.net
 digitalesbusiness.info
 digitalmail.info
 digitalmariachis.com
@@ -1262,6 +1265,7 @@ earthling.net
 eastwan.net
 easy-trash-mail.com
 easyemail.info
+easymail.top
 easynetwork.info
 easytrashmail.com
 eatmea2z.club
@@ -1489,6 +1493,7 @@ fantasymail.de
 farrse.co.uk
 fartwallet.com
 fast-mail.fr
+fast-mail.one
 fastacura.com
 fastchevy.com
 fastchrysler.com
@@ -1539,6 +1544,7 @@ fingermouse.org
 fir.hk
 firegook.com
 fireman.net
+first-email.net
 fishfortomorrow.xyz
 fivemail.de
 fixmail.tk
@@ -1736,7 +1742,6 @@ giacmosuaviet.info
 giaiphapmuasam.com
 giantmail.de
 gibit.us
-gift-link.com
 gifto12.com
 ginzi.be
 ginzi.co.uk
@@ -2603,7 +2608,6 @@ mailexpire.com
 mailf5.com
 mailfa.tk
 mailfall.com
-mailfavorite.com
 mailfish.de
 mailformail.com
 mailforspam.com
@@ -2689,6 +2693,7 @@ mailsac.com
 mailscheap.us
 mailscrap.com
 mailseal.de
+mailsearch.net
 mailshell.com
 mailsiphon.com
 mailslapping.com
@@ -2919,7 +2924,6 @@ myde.ml
 mydemo.equipment
 myecho.es
 myemailboxy.com
-myfavorite.info
 myfreemail.space
 mygeoweb.info
 myindohome.services
@@ -2996,7 +3000,6 @@ nervmich.net
 nervtmich.net
 net-list.com
 net-shopping.com
-net-solution.info
 net.ua
 netmails.com
 netmails.info
@@ -3004,8 +3007,6 @@ netmails.net
 netricity.nl
 netris.net
 netviewer-france.com
-network-source.com
-networkapps.info
 netzidiot.de
 nevada.usa.com
 neverbox.com
@@ -3285,7 +3286,6 @@ pinehill-seattle.org
 pingir.com
 pisls.com
 pjjkp.com
-placemail.online
 planetmail.com
 planetmail.net
 playful.com
@@ -3330,7 +3330,6 @@ post.com
 posta.store
 postacin.com
 postalmail.biz
-postemail.net
 postfach2go.de
 postonline.me
 poutineyourface.com
@@ -3480,6 +3479,8 @@ recode.me
 reconmail.com
 recursor.net
 recyclemail.dk
+red-mail.info
+red-mail.top
 redchan.it
 reddcoin2.com
 reddit.usa.cc
@@ -4092,6 +4093,7 @@ thanksnospam.info
 thankyou2010.com
 thatim.info
 thc.st
+the-first.email
 theaperturelabs.com
 theaperturescience.com
 theaviors.com
@@ -4514,7 +4516,6 @@ web-mail.pp.ua
 web.id
 web2mailco.com
 webarnak.fr.eu.org
-webaward.online
 webcontact-france.eu
 webemail.me
 webm4il.info
@@ -4606,7 +4607,6 @@ worker.com
 workflowy.cn
 workflowy.top
 workmail.com
-world-travel.online
 worldspace.link
 wormseo.cn
 wovz.cu.cc
