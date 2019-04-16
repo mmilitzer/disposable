@@ -21,11 +21,6 @@
 0x00.name
 0x207.info
 1-8.biz
-1.atm-mi.cf
-1.atm-mi.ga
-1.atm-mi.gq
-1.atm-mi.ml
-1.atm-mi.tk
 1000rebates.stream
 100likers.com
 10host.top
@@ -81,7 +76,6 @@
 1clck2.com
 1fsdfdsfsdf.tk
 1mail.ml
-1mail.x24hr.com
 1pad.de
 1rentcar.top
 1s.fr
@@ -96,8 +90,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.sexymail.ooo
-2.tebwinsoi.ooo
 2000rebates.stream
 2012-2016.ru
 2014mail.ru
@@ -898,8 +890,6 @@ cmail.org
 cnamed.com
 cndps.com
 cnew.ir
-cnh.industrial.ga
-cnh.industrial.gq
 cnmsg.net
 cnn.coms.hk
 cnsds.de
@@ -1430,8 +1420,6 @@ etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dlink.cf
-eu.dlink.gq
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1634,7 +1622,6 @@ freeweb.email
 freunde.ru
 freundin.ru
 friendlymail.co.uk
-from.onmypc.info
 front14.org
 fsagc.xyz
 fsfsdf.org
@@ -1672,7 +1659,6 @@ g1xmail.top
 g2xmail.top
 g3xmail.top
 g4hdrop.us
-gabox.store
 gaf.oseanografi.id
 gafy.net
 gaggle.net
@@ -2268,7 +2254,6 @@ kariplan.com
 kartvelo.com
 kasmail.com
 kaspop.com
-katergizmo.de
 katztube.com
 kazelink.ml
 kcrw.de
@@ -2492,9 +2477,6 @@ luo.kr
 luv2.us
 lyfestylecreditsolutions.com
 lzoaq.com
-m0.guardmail.cf
-m1.guardmail.cf
-m2.guardmail.cf
 m21.cc
 m2r60ff.com
 m4ilweb.info
@@ -2875,7 +2857,6 @@ moruzza.com
 moscowmail.com
 motique.de
 mountainregionallibrary.net
-mowgli.jungleheart.com
 mox.pp.ua
 moza.pl
 mozej.com
@@ -3114,7 +3095,6 @@ notmailinator.com
 notrnailinator.com
 notsharingmy.info
 now.im
-now.mefound.com
 noway.pw
 nowhere.org
 nowmymail.com
@@ -3957,11 +3937,6 @@ streamfly.biz
 streamfly.link
 streetwisemail.com
 stromox.com
-sts.hitachirail.cf
-sts.hitachirail.ga
-sts.hitachirail.gq
-sts.hitachirail.ml
-sts.hitachirail.tk
 stuckmail.com
 studiopolka.tokyo
 stuffmail.de
@@ -4366,8 +4341,6 @@ urfey.com
 urfunktion.se
 uroid.com
 us.af
-us.dlink.cf
-us.dlink.gq
 us.to
 usa-cc.usa.cc
 usa.cc
