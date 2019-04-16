@@ -648,6 +648,7 @@ bitwhites.top
 bitymails.us
 biz.st
 bko.kr
+blackbird.ws
 blackmarket.to
 blader.com
 bladesmail.net
@@ -743,6 +744,7 @@ bunsenhoneydew.com
 burgercentral.us
 burnthespam.info
 burstmail.info
+businessagent.email
 businessbackend.com
 businesscredit.xyz
 businesssource.net
@@ -1100,6 +1102,7 @@ dim-coin.com
 dingbone.com
 dinkmail.com
 diplomats.com
+direct-mail.info
 directmail24.net
 disaq.com
 disario.info
@@ -1205,6 +1208,7 @@ dragons-spirit.org
 drama.tw
 drdrb.com
 drdrb.net
+dreamcatcher.email
 dred.ru
 drevo.si
 drivetagdev.com
@@ -1963,6 +1967,7 @@ hot-mail.ml
 hot-mail.tk
 hot-shot.com
 hotakama.tk
+hotelnextmail.com
 hotmai.com
 hotmailpro.info
 hotmailproduct.com
@@ -2501,6 +2506,7 @@ mail-easy.fr
 mail-fake.com
 mail-filter.com
 mail-hub.info
+mail-list.top
 mail-me.com
 mail-owl.com
 mail-pro.info
@@ -2648,6 +2654,7 @@ mailjunk.ml
 mailjunk.tk
 mailkor.xyz
 maillink.info
+maillink.live
 maillink.top
 mailmate.com
 mailme.gq
@@ -2741,6 +2748,7 @@ materiali.ml
 matra.site
 mattmason.xyz
 max-direct.com
+max-mail.info
 max88.club
 maxmail.info
 mbe.kr
@@ -3753,6 +3761,8 @@ smapfree24.de
 smapfree24.eu
 smapfree24.info
 smapfree24.org
+smart-mail.info
+smartbusiness.me
 smarttalent.pw
 smashmail.de
 smellfear.com
