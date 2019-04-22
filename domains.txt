@@ -21,11 +21,6 @@
 0x00.name
 0x207.info
 1-8.biz
-1.atm-mi.cf
-1.atm-mi.ga
-1.atm-mi.gq
-1.atm-mi.ml
-1.atm-mi.tk
 1000rebates.stream
 100likers.com
 10host.top
@@ -81,7 +76,6 @@
 1clck2.com
 1fsdfdsfsdf.tk
 1mail.ml
-1mail.x24hr.com
 1pad.de
 1rentcar.top
 1s.fr
@@ -96,8 +90,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.sexymail.ooo
-2.tebwinsoi.ooo
 2000rebates.stream
 2012-2016.ru
 2014mail.ru
@@ -884,7 +876,12 @@ clickdeal.co
 cliffhanger.com
 clinicatbf.com
 clintonemailhearing.com
+clipmail.cf
 clipmail.eu
+clipmail.ga
+clipmail.gq
+clipmail.ml
+clipmail.tk
 cliptik.net
 clixser.com
 cloud99.pro
@@ -900,8 +897,6 @@ cmail.org
 cnamed.com
 cndps.com
 cnew.ir
-cnh.industrial.ga
-cnh.industrial.gq
 cnmsg.net
 cnn.coms.hk
 cnsds.de
@@ -963,6 +958,7 @@ courrieltemporaire.com
 cowcell.com
 cowstore.net
 coza.ro
+cpmail.life
 cpsystems.ru
 cr97mt49.com
 crankhole.com
@@ -1145,6 +1141,7 @@ disposableaddress.com
 disposableemail.org
 disposableemailaddresses.com
 disposableinbox.com
+disposablemail.top
 disposablemails.com
 dispose.it
 disposeamail.com
@@ -1336,6 +1333,7 @@ emailgo.de
 emailhearing.com
 emailias.com
 emailigo.de
+emailinbox.xyz
 emailinfive.com
 emailirani.ir
 emailisvalid.com
@@ -1434,8 +1432,6 @@ etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dlink.cf
-eu.dlink.gq
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1480,7 +1476,9 @@ fake-box.com
 fake-email.pp.ua
 fake-mail.cf
 fake-mail.ga
+fake-mail.gq
 fake-mail.ml
+fake-mail.tk
 fakedemail.com
 fakeinbox.cf
 fakeinbox.com
@@ -1491,7 +1489,12 @@ fakeinbox.tk
 fakeinformation.com
 fakemail.fr
 fakemail.intimsex.de
+fakemail.win
 fakemailgenerator.com
+fakemails.cf
+fakemails.ga
+fakemails.gq
+fakemails.ml
 fakemailz.com
 fammix.com
 fan.com
@@ -1605,11 +1608,6 @@ frappina.tk
 frappina99.tk
 free-email.cf
 free-email.ga
-free.mail52.cf
-free.mail52.ga
-free.mail52.gq
-free.mail52.ml
-free.mail52.tk
 freebabysittercam.com
 freeblackbootytube.com
 freebullets.net
@@ -1643,7 +1641,6 @@ freeweb.email
 freunde.ru
 freundin.ru
 friendlymail.co.uk
-from.onmypc.info
 front14.org
 fsagc.xyz
 fsfsdf.org
@@ -1681,7 +1678,6 @@ g1xmail.top
 g2xmail.top
 g3xmail.top
 g4hdrop.us
-gabox.store
 gaf.oseanografi.id
 gafy.net
 gaggle.net
@@ -2088,6 +2084,7 @@ inboxed.im
 inboxed.pw
 inboxhub.net
 inboxkitten.com
+inboxmail.world
 inboxproxy.com
 inboxstore.me
 inclusiveprogress.com
@@ -2279,7 +2276,6 @@ kariplan.com
 kartvelo.com
 kasmail.com
 kaspop.com
-katergizmo.de
 katztube.com
 kazelink.ml
 kcrw.de
@@ -2503,9 +2499,6 @@ luo.kr
 luv2.us
 lyfestylecreditsolutions.com
 lzoaq.com
-m0.guardmail.cf
-m1.guardmail.cf
-m2.guardmail.cf
 m21.cc
 m2r60ff.com
 m4ilweb.info
@@ -2523,6 +2516,7 @@ magicbox.ro
 magspam.net
 maidlow.info
 mail-2-you.com
+mail-address.live
 mail-apps.com
 mail-apps.net
 mail-cart.com
@@ -2703,6 +2697,7 @@ mailorg.org
 mailox.biz
 mailox.fun
 mailpick.biz
+mailpm.live
 mailpooch.com
 mailpress.gq
 mailprotech.com
@@ -2889,7 +2884,6 @@ moruzza.com
 moscowmail.com
 motique.de
 mountainregionallibrary.net
-mowgli.jungleheart.com
 mox.pp.ua
 moza.pl
 mozej.com
@@ -3128,7 +3122,6 @@ notmailinator.com
 notrnailinator.com
 notsharingmy.info
 now.im
-now.mefound.com
 noway.pw
 nowhere.org
 nowmymail.com
@@ -3148,6 +3141,7 @@ nut.cc
 nutcc.nut.cc
 nutpa.net
 nuts2trade.com
+nvc-e.com
 nwldx.com
 nwldx.net
 nwytg.com
@@ -3362,6 +3356,7 @@ powered.name
 powlearn.com
 poy.kr
 pp.ua
+ppc-e.com
 ppetw.com
 pqoia.com
 pqoss.com
@@ -3973,11 +3968,6 @@ streamfly.biz
 streamfly.link
 streetwisemail.com
 stromox.com
-sts.hitachirail.cf
-sts.hitachirail.ga
-sts.hitachirail.gq
-sts.hitachirail.ml
-sts.hitachirail.tk
 stuckmail.com
 studiopolka.tokyo
 stuffmail.de
@@ -4018,6 +4008,7 @@ swissmail.com
 sxylc113.com
 sylvannet.com
 symphonyresume.com
+synonyme.email
 syosetu.gq
 syujob.accountants
 szerz.com
@@ -4063,6 +4054,7 @@ teleworm.us
 tellos.xyz
 temp-mail.com
 temp-mail.de
+temp-mail.ml
 temp-mail.net
 temp-mail.org
 temp-mail.pp.ua
@@ -4098,11 +4090,14 @@ tempmail2.com
 tempmaildemo.com
 tempmailer.com
 tempmailer.de
+tempmails.cf
+tempmails.gq
 tempomail.fr
 temporamail.com
 temporarily.de
 temporarioemail.com.br
 temporary-email.com
+temporary-email.world
 temporaryemail.net
 temporaryemail.us
 temporaryforwarding.com
@@ -4382,8 +4377,6 @@ urfey.com
 urfunktion.se
 uroid.com
 us.af
-us.dlink.cf
-us.dlink.gq
 us.to
 usa-cc.usa.cc
 usa.cc
