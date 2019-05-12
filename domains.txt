@@ -1283,6 +1283,7 @@ e-mail.comx.cf
 e-mail.igg.biz
 e-mail.net
 e-mail.org
+e-mailbox.comx.cf
 e-postkasten.com
 e-postkasten.de
 e-postkasten.eu
@@ -1355,6 +1356,7 @@ emailage.gq
 emailage.ml
 emailage.tk
 emailapps.info
+emailbox.comx.cf
 emaildienst.de
 emaildrop.io
 emailfake.com
@@ -1439,6 +1441,7 @@ eos2mail.com
 epb.ro
 ephemail.net
 ephemeral.email
+epostmail.comx.cf
 eqeqeqeqe.tk
 eqiluxspam.ga
 erasf.com
@@ -2117,6 +2120,7 @@ iname.com
 inapplicable.org
 inbax.tk
 inbound.plus
+inbox.comx.cf
 inbox.si
 inbox2.info
 inboxalias.com
@@ -2641,6 +2645,7 @@ mailbidon.com
 mailbiz.biz
 mailblocks.com
 mailblog.biz
+mailbox.comx.cf
 mailbox.r2.dns-cloud.net
 mailbox2go.de
 mailbox52.ga
@@ -2752,6 +2757,7 @@ mailox.fun
 mailpick.biz
 mailpm.live
 mailpooch.com
+mailpost.comx.cf
 mailpress.gq
 mailprotech.com
 mailproxsy.com
