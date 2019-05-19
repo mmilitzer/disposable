@@ -297,7 +297,6 @@ addictingtrailers.com
 adeptwe.us
 adesktop.com
 adexec.com
-adfly.comx.cf
 adipex7z.com
 adiq.eu
 aditus.info
@@ -359,7 +358,6 @@ akgq701.com
 akkecuwa.ga
 akorde.al
 aktiefmail.nl
-al-jazeera.comx.cf
 al-qaeda.us
 alabama.usa.com
 alaska.usa.com
@@ -716,7 +714,6 @@ bossmail.de
 bot.nu
 boun.cr
 bouncr.com
-box.comx.cf
 box.yadavnaresh.com.np
 boxformail.in
 boximail.com
@@ -1286,11 +1283,9 @@ dynu.net
 dz-geek.org
 dz17.net
 e-mail.com
-e-mail.comx.cf
 e-mail.igg.biz
 e-mail.net
 e-mail.org
-e-mailbox.comx.cf
 e-postkasten.com
 e-postkasten.de
 e-postkasten.eu
@@ -1354,7 +1349,6 @@ email-temp.com
 email-wizard.com
 email.cbes.net
 email.com
-email.comx.cf
 email.net
 email60.com
 emailage.cf
@@ -1363,7 +1357,6 @@ emailage.gq
 emailage.ml
 emailage.tk
 emailapps.info
-emailbox.comx.cf
 emaildienst.de
 emaildrop.io
 emailfake.com
@@ -1448,7 +1441,6 @@ eos2mail.com
 epb.ro
 ephemail.net
 ephemeral.email
-epostmail.comx.cf
 eqeqeqeqe.tk
 eqiluxspam.ga
 erasf.com
@@ -2128,7 +2120,6 @@ iname.com
 inapplicable.org
 inbax.tk
 inbound.plus
-inbox.comx.cf
 inbox.si
 inbox2.info
 inboxalias.com
@@ -2558,7 +2549,6 @@ lukemail.info
 lukop.dk
 luo.kr
 luv2.us
-lycos.comx.cf
 lyfestylecreditsolutions.com
 lzoaq.com
 m0.guardmail.cf
@@ -2605,7 +2595,6 @@ mail.bccto.com
 mail.bccto.me
 mail.by
 mail.com
-mail.comx.cf
 mail.illistnoise.com
 mail.mailinator.com
 mail.me
@@ -2656,7 +2645,6 @@ mailbidon.com
 mailbiz.biz
 mailblocks.com
 mailblog.biz
-mailbox.comx.cf
 mailbox.r2.dns-cloud.net
 mailbox2go.de
 mailbox52.ga
@@ -2768,7 +2756,6 @@ mailox.fun
 mailpick.biz
 mailpm.live
 mailpooch.com
-mailpost.comx.cf
 mailpress.gq
 mailprotech.com
 mailproxsy.com
@@ -3343,7 +3330,6 @@ patonce.com
 paulfucksallthebitches.com
 pavilionx2.com
 pay-mon.com
-paypal.comx.cf
 payperex2.com
 pc1520.com
 pcmylife.com
@@ -4443,7 +4429,6 @@ tyldd.com
 tz.tz
 u14269.gq
 u14269.ml
-u2b.comx.cf
 u6lvty2.com
 ua3jx7n0w3.com
 uacro.com
@@ -4828,18 +4813,14 @@ xy9ce.tk
 xyzfree.net
 xzsok.com
 y.bcb.ro
-y2b.comx.cf
-y2ube.comx.cf
 y59.jp
 ya.yomail.info
 yabai-oppai.tk
 yadavnaresh.com.np
 yahmail.top
-yahoo.comx.cf
 yahooproduct.net
 yamail.win
 yandere.cu.cc
-yandex.comx.cf
 yanet.me
 yannmail.win
 yapped.net
@@ -4901,7 +4882,6 @@ yours.com
 yourspamgoesto.space
 yourtube.ml
 yourweb.email
-youtube.comx.cf
 youzend.net
 ypmail.webarnak.fr.eu.org
 yroid.com
