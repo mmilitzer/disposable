@@ -23,12 +23,6 @@
 0x00.name
 0x207.info
 1-8.biz
-1.atm-mi.cf
-1.atm-mi.ga
-1.atm-mi.gq
-1.atm-mi.ml
-1.atm-mi.tk
-1.kerl.cf
 1000rebates.stream
 100likers.com
 10host.top
@@ -84,7 +78,6 @@
 1clck2.com
 1fsdfdsfsdf.tk
 1mail.ml
-1mail.x24hr.com
 1pad.de
 1rentcar.top
 1s.fr
@@ -99,9 +92,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.kerl.cf
-2.sexymail.ooo
-2.tebwinsoi.ooo
 2000rebates.stream
 2012-2016.ru
 2014mail.ru
@@ -137,7 +127,6 @@
 2sea.xyz
 2trom.com
 2wc.info
-3.kerl.cf
 300book.info
 30mail.ir
 30minutemail.com
@@ -238,8 +227,6 @@
 9q.ro
 a-bc.net
 a.a.fbmail.usa.cc
-a.kerl.gq
-a.uditt.cf
 a0.igg.biz
 a0f7ukc.com
 a1.usa.cc
@@ -489,7 +476,6 @@ apkmd.com
 appc.se
 appinventor.nl
 appixie.com
-apple.dnsabr.com
 appraiser.net
 apps.dj
 archaeologist.com
@@ -568,7 +554,6 @@ azazazatashkent.tk
 azcomputerworks.com
 azjuggalos.com
 azmeil.tk
-b.kerl.gq
 b0.nut.cc
 b1of96u.com
 b2bx.net
@@ -722,7 +707,6 @@ boxtemp.com.br
 brainonfire.net
 brandallday.net
 brasx.org
-bratwurst.dnsabr.com
 braun4email.com
 brazilmail.com
 breadtimes.press
@@ -784,15 +768,11 @@ by8006l.com
 byebyemail.com
 byespm.com
 byom.de
-c.kerl.gq
 c1oramn.com
 c2.hu
 c4utar.ml
 c51vsgq.com
 c7fk799.com
-ca.verisign.cf
-ca.verisign.ga
-ca.verisign.gq
 cachedot.net
 cafecar.xyz
 california.usa.com
@@ -1273,7 +1253,6 @@ dumpyemail.com
 durandinterstellar.com
 duskmail.com
 dutchmail.com
-dvx.dnsabr.com
 dw.now.im
 dwse.edu.pl
 dx.ez.lv
@@ -1467,8 +1446,6 @@ etoic.com
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dlink.cf
-eu.dlink.gq
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1646,11 +1623,6 @@ frappina.tk
 frappina99.tk
 free-email.cf
 free-email.ga
-free.mail52.cf
-free.mail52.ga
-free.mail52.gq
-free.mail52.ml
-free.mail52.tk
 freebabysittercam.com
 freeblackbootytube.com
 freebullets.net
@@ -1684,7 +1656,6 @@ freeweb.email
 freunde.ru
 freundin.ru
 friendlymail.co.uk
-from.onmypc.info
 front14.org
 fsagc.xyz
 fsfsdf.org
@@ -1722,7 +1693,6 @@ g1xmail.top
 g2xmail.top
 g3xmail.top
 g4hdrop.us
-gabox.store
 gaf.oseanografi.id
 gafy.net
 gaggle.net
@@ -2323,7 +2293,6 @@ kariplan.com
 kartvelo.com
 kasmail.com
 kaspop.com
-katergizmo.de
 katztube.com
 kazelink.ml
 kcrw.de
@@ -2409,7 +2378,6 @@ kwilco.net
 kyal.pl
 kyois.com
 l-c-a.us
-l.r3-r4.tk
 l0real.net
 l33r.eu
 l5.ca
@@ -2551,9 +2519,6 @@ luo.kr
 luv2.us
 lyfestylecreditsolutions.com
 lzoaq.com
-m0.guardmail.cf
-m1.guardmail.cf
-m2.guardmail.cf
 m21.cc
 m2r60ff.com
 m4ilweb.info
@@ -2645,7 +2610,6 @@ mailbidon.com
 mailbiz.biz
 mailblocks.com
 mailblog.biz
-mailbox.r2.dns-cloud.net
 mailbox2go.de
 mailbox52.ga
 mailbox72.biz
@@ -2942,14 +2906,12 @@ moruzza.com
 moscowmail.com
 motique.de
 mountainregionallibrary.net
-mowgli.jungleheart.com
 mox.pp.ua
 moza.pl
 mozej.com
 mp-j.ga
 mp-j.igg.biz
 mp.igg.biz
-mpmps160.tk
 mqg77378.ga
 mr24.co
 mrblacklist.gq
@@ -2987,16 +2949,11 @@ muslim.com
 mustbedestroyed.org
 mutant.me
 muttwalker.net
-mv1951.cf
-mv1951.ml
-mv1951.tk
 mvrht.com
 mvrht.net
 mwarner.org
 mx0.wwwnew.eu
 mxfuel.com
-mxp.dns-cloud.net
-mxp.dnsabr.com
 my.efxs.ca
 my.vondata.com.ar
 my10minutemail.com
@@ -3188,7 +3145,6 @@ notmailinator.com
 notrnailinator.com
 notsharingmy.info
 now.im
-now.mefound.com
 noway.pw
 nowhere.org
 nowmymail.com
@@ -3305,9 +3261,6 @@ ownsyou.de
 oxopoha.com
 oyu.kr
 ozyl.de
-p-value.ga
-p-value.tk
-p.new-mgmt.ga
 p33.org
 p71ce1m.com
 pa9e.com
@@ -3464,7 +3417,6 @@ proxyparking.com
 prs7.xyz
 prtnx.com
 prtz.eu
-ps160.mpm-motors.cf
 psh.me
 psles.com
 psoxs.com
@@ -3491,10 +3443,8 @@ pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
 pw.nut.cc
-pw.r4.dns-cloud.net
 pwp.lv
 pwrby.com
-q.new-mgmt.ga
 q314.net
 q5vm7pi9.com
 qacquirep.com
@@ -3532,7 +3482,6 @@ qvy.me
 qwfox.com
 qwickmail.com
 r0.igg.biz
-r4.dns-cloud.net
 r4nd0m.de
 r8r4p0cb.com
 ra3.us
@@ -3682,9 +3631,7 @@ s-s.flu.cc
 s.bungabunga.cf
 s.sa.igg.biz
 s0ny.net
-s3.j2k5.ml
 s33db0x.com
-s3s4.tk
 s51zdw001.com
 sa.igg.biz
 sabrestlouis.com
@@ -3773,7 +3720,6 @@ server.ms
 servermaps.net
 service4.ml
 services391.com
-sex.dns-cloud.net
 sexforswingers.com
 sexical.com
 sexyalwasmi.top
@@ -3805,12 +3751,9 @@ shitaway.ml
 shitaway.nut.cc
 shitaway.tk
 shitaway.usa.cc
-shitmail.cf
 shitmail.de
 shitmail.me
-shitmail.ml
 shitmail.org
-shitmail.tk
 shitposting.agency
 shitware.nl
 shmeriously.com
@@ -4011,7 +3954,6 @@ spb.ru
 speed.1s.fr
 speedgaus.net
 sperma.cf
-sperma.gq
 spikio.com
 spindl-e.com
 spoofmail.de
@@ -4060,11 +4002,6 @@ streamfly.biz
 streamfly.link
 streetwisemail.com
 stromox.com
-sts.hitachirail.cf
-sts.hitachirail.ga
-sts.hitachirail.gq
-sts.hitachirail.ml
-sts.hitachirail.tk
 stuckmail.com
 studiopolka.tokyo
 stuffmail.de
@@ -4110,8 +4047,6 @@ syosetu.gq
 syujob.accountants
 szerz.com
 szucsati.net
-t-student.cf
-t-student.tk
 t.psh.me
 t24e4p7.com
 t3t97d1d.com
@@ -4476,8 +4411,6 @@ urfey.com
 urfunktion.se
 uroid.com
 us.af
-us.dlink.cf
-us.dlink.gq
 us.to
 usa-cc.usa.cc
 usa.cc
@@ -4503,7 +4436,6 @@ uyhip.com
 uymail.com
 uyu.kr
 uz6tgwk.com
-v.olvos90.tk
 vaasfc4.tk
 vaati.org
 vaffanculo.gq
@@ -4763,10 +4695,6 @@ wyoming.usa.com
 wyvernia.net
 wzukltd.com
 x.ip6.li
-x.tonno.cf
-x.tonno.gq
-x.tonno.ml
-x.tonno.tk
 x1x.spb.ru
 x1x22716.com
 x24.com
