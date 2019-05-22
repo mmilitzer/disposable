@@ -538,6 +538,7 @@ asu.mx
 asu.su
 at.hm
 at0mik.org
+atech5.com
 atheist.com
 attnetwork.com
 atvclub.msk.ru
@@ -1879,6 +1880,7 @@ greenhousemail.com
 greenmail.net
 greensloth.com
 greenst.info
+greentech5.com
 greggamel.com
 greggamel.net
 gregorsky.zone
@@ -2086,6 +2088,7 @@ ichigo.me
 icx.in
 icx.ro
 idaho.usa.com
+idea-mail.com
 idigo.org
 idx4.com
 ieatspam.eu
@@ -2694,6 +2697,7 @@ mailhazard.com
 mailhazard.us
 mailhero.io
 mailhex.com
+mailhub.top
 mailhz.me
 mailimate.com
 mailin8r.com
@@ -2773,6 +2777,7 @@ mailshell.com
 mailsiphon.com
 mailslapping.com
 mailslite.com
+mailsource.info
 mailspam.xyz
 mailspeed.ru
 mailsucker.net
@@ -2826,6 +2831,7 @@ materiali.ml
 matra.site
 mattmason.xyz
 max-direct.com
+max-mail.com
 max-mail.info
 max88.club
 maxmail.info
@@ -3651,6 +3657,7 @@ rowe-solutions.com
 royal-soft.net
 royal.net
 royaldoodles.org
+royalgifts.info
 royalhost.info
 royalmail.top
 royalmarket.online
@@ -3818,6 +3825,7 @@ shmeriously.com
 shockinmytown.cu.cc
 shonky.info
 shop4mail.net
+shoproyal.net
 shortmail.net
 shotmail.ru
 showme.social
@@ -4137,12 +4145,14 @@ tdf-illustration.com
 teachers.org
 teamspeak3.ga
 tech-center.com
+tech5group.com
 tech69.com
 techemail.com
 techgroup.me
 techgroup.top
 techie.com
 techmail.info
+techno5.club
 technologist.com
 teerest.com
 teewars.org
