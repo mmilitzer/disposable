@@ -982,6 +982,7 @@ cowstore.net
 coza.ro
 cpmail.life
 cpsystems.ru
+cr.cloudns.asia
 cr97mt49.com
 crankhole.com
 crankmails.com
@@ -2952,6 +2953,7 @@ mrblacklist.gq
 mrmail.info
 mrresourcepacks.tk
 msa.minsmail.com
+msft.cloudns.asia
 msgden.com
 msgos.com
 msgsafe.ninja
@@ -4276,6 +4278,7 @@ tkitc.de
 tkmy88m.com
 tko.kr
 tlpn.org
+tls.cloudns.asia
 tm.slsrs.ru
 tm2mail.com
 tm42.gq
