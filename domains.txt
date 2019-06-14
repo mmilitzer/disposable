@@ -1279,6 +1279,7 @@ durandinterstellar.com
 duskmail.com
 dutchmail.com
 dvd.dns-cloud.net
+dvd.dnsabr.com
 dvx.dnsabr.com
 dw.now.im
 dwse.edu.pl
