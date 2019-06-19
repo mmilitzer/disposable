@@ -23,7 +23,6 @@
 0x00.name
 0x207.info
 1-8.biz
-10.dns-cloud.net
 1000rebates.stream
 100likers.com
 10host.top
@@ -62,7 +61,6 @@
 11163.com
 11top.xyz
 123-m.com
-123.dns-cloud.net
 12hosting.net
 12houremail.com
 12minutemail.com
@@ -80,7 +78,6 @@
 1clck2.com
 1fsdfdsfsdf.tk
 1mail.ml
-1mail.x24hr.com
 1pad.de
 1rentcar.top
 1s.fr
@@ -95,9 +92,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.sexymail.ooo
-2.tebwinsoi.ooo
-20.dns-cloud.net
 2000rebates.stream
 2012-2016.ru
 2014mail.ru
@@ -134,7 +128,6 @@
 2sea.xyz
 2trom.com
 2wc.info
-30.dns-cloud.net
 300book.info
 30mail.ir
 30minutemail.com
@@ -153,14 +146,11 @@
 3trtretgfrfe.tk
 4-n.us
 4.fackme.gq
-40.volvo-xc.ml
-40.volvo-xc.tk
 4057.com
 418.dk
 420blaze.it
 42o.org
 44556677.igg.biz
-456.dns-cloud.net
 466453.usa.cc
 487.nut.cc
 4gfdsgfdgfd.tk
@@ -193,8 +183,6 @@
 5ymail.com
 6.emailfake.ml
 60-minuten-mail.de
-60.volvo-xc.ml
-60.volvo-xc.tk
 60minutemail.com
 672643.net
 675hosting.com
@@ -212,7 +200,6 @@
 75hosting.com
 75hosting.net
 75hosting.org
-789.dns-cloud.net
 7days-printing.com
 7ddf32e.info
 7mail.ga
@@ -231,8 +218,6 @@
 8mail.ga
 8mail.ml
 8xyz8.dynu.net
-90.volvo-xc.ml
-90.volvo-xc.tk
 900k.es
 99.com
 99experts.com
@@ -243,7 +228,6 @@
 9q.ro
 a-bc.net
 a.a.fbmail.usa.cc
-a.yertxenor.tk
 a0.igg.biz
 a0f7ukc.com
 a1.usa.cc
@@ -495,7 +479,6 @@ apkmd.com
 appc.se
 appinventor.nl
 appixie.com
-apple.dnsabr.com
 appraiser.net
 apps.dj
 archaeologist.com
@@ -576,8 +559,6 @@ azazazatashkent.tk
 azcomputerworks.com
 azjuggalos.com
 azmeil.tk
-b.cr.cloudns.asia
-b.yertxenor.tk
 b0.nut.cc
 b1of96u.com
 b2bx.net
@@ -623,7 +604,6 @@ bbhost.us
 bcast.ws
 bcb.ro
 bccto.me
-bd.dns-cloud.net
 bdmuzic.pw
 bearsarefuzzy.com
 beck-it.net
@@ -735,7 +715,6 @@ boxtemp.com.br
 brainonfire.net
 brandallday.net
 brasx.org
-bratwurst.dnsabr.com
 braun4email.com
 brazilmail.com
 breadtimes.press
@@ -1001,7 +980,6 @@ cowstore.net
 coza.ro
 cpmail.life
 cpsystems.ru
-cr.cloudns.asia
 cr97mt49.com
 crankhole.com
 crankmails.com
@@ -1292,9 +1270,6 @@ dumpyemail.com
 durandinterstellar.com
 duskmail.com
 dutchmail.com
-dvd.dns-cloud.net
-dvd.dnsabr.com
-dvx.dnsabr.com
 dw.now.im
 dwse.edu.pl
 dx.ez.lv
@@ -1701,7 +1676,6 @@ freeweb.email
 freunde.ru
 freundin.ru
 friendlymail.co.uk
-from.onmypc.info
 front14.org
 fsagc.xyz
 fsfsdf.org
@@ -1739,7 +1713,6 @@ g1xmail.top
 g2xmail.top
 g3xmail.top
 g4hdrop.us
-gabox.store
 gaf.oseanografi.id
 gafy.net
 gaggle.net
@@ -2346,7 +2319,6 @@ kariplan.com
 kartvelo.com
 kasmail.com
 kaspop.com
-katergizmo.de
 katztube.com
 kazelink.ml
 kcrw.de
@@ -2665,7 +2637,6 @@ mailbidon.com
 mailbiz.biz
 mailblocks.com
 mailblog.biz
-mailbox.r2.dns-cloud.net
 mailbox2go.de
 mailbox52.ga
 mailbox72.biz
@@ -2965,7 +2936,6 @@ moruzza.com
 moscowmail.com
 motique.de
 mountainregionallibrary.net
-mowgli.jungleheart.com
 mox.pp.ua
 moza.pl
 mozej.com
@@ -2978,7 +2948,6 @@ mrblacklist.gq
 mrmail.info
 mrresourcepacks.tk
 msa.minsmail.com
-msft.cloudns.asia
 msgden.com
 msgos.com
 msgsafe.ninja
@@ -3015,8 +2984,6 @@ mvrht.net
 mwarner.org
 mx0.wwwnew.eu
 mxfuel.com
-mxp.dns-cloud.net
-mxp.dnsabr.com
 my.efxs.ca
 my.vondata.com.ar
 my10minutemail.com
@@ -3208,7 +3175,6 @@ notmailinator.com
 notrnailinator.com
 notsharingmy.info
 now.im
-now.mefound.com
 noway.pw
 nowhere.org
 nowmymail.com
@@ -3288,7 +3254,6 @@ oohioo.com
 oolus.com
 oopi.org
 opayq.com
-opende.de
 opendns.ro
 opentrash.com
 opmmedia.ga
@@ -3510,7 +3475,6 @@ pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
 pw.nut.cc
-pw.r4.dns-cloud.net
 pwp.lv
 pwrby.com
 q314.net
@@ -3550,7 +3514,6 @@ qvy.me
 qwfox.com
 qwickmail.com
 r0.igg.biz
-r4.dns-cloud.net
 r4nd0m.de
 r8r4p0cb.com
 ra3.us
@@ -3795,7 +3758,6 @@ server.ms
 servermaps.net
 service4.ml
 services391.com
-sex.dns-cloud.net
 sexforswingers.com
 sexical.com
 sexyalwasmi.top
@@ -3818,8 +3780,6 @@ shipfromto.com
 shiphazmat.org
 shipping-regulations.com
 shippingterms.org
-shit.dns-cloud.net
-shit.dnsabr.com
 shitaway.cf
 shitaway.flu.cc
 shitaway.ga
@@ -4051,7 +4011,6 @@ sraka.xyz
 sroff.com
 sry.li
 ssgjylc1013.com
-ssl.tls.cloudns.asia
 ssoia.com
 stanfordujjain.com
 starlight-breaker.net
@@ -4307,7 +4266,6 @@ tkitc.de
 tkmy88m.com
 tko.kr
 tlpn.org
-tls.cloudns.asia
 tm.slsrs.ru
 tm2mail.com
 tm42.gq
@@ -4913,7 +4871,6 @@ yugasandrika.com
 yui.it
 yuoia.com
 yuurok.com
-yx.dns-cloud.net
 yx48bxdv.ga
 yxzx.net
 yy-h2.nut.cc
