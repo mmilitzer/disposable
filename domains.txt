@@ -257,6 +257,8 @@ aaaw45e.com
 ab0.igg.biz
 abacuswe.us
 abakiss.com
+abb.dns-cloud.net
+abb.dnsabr.com
 abcmail.email
 abcz.info.tm
 abilitywe.us
@@ -1843,6 +1845,8 @@ gmailssdf.com
 gmal.com
 gmatch.org
 gmial.com
+gmx.dns-cloud.net
+gmx.dnsabr.com
 gmx.fr.nf
 gmx1mail.top
 gmxmail.top
@@ -1982,6 +1986,8 @@ haydoo.com
 hazelnut4u.com
 hazelnuts4u.com
 hazmatshipping.org
+hbo.dns-cloud.net
+hbo.dnsabr.com
 hbxrlg4sae.ga
 hcac.net
 hccmail.win
@@ -3872,6 +3878,7 @@ skrx.tk
 sky-inbox.com
 sky-mail.ga
 sky-ts.de
+sky.dnsabr.com
 skymailapp.com
 skymailgroup.com
 slapsfromlastnight.com
@@ -4461,6 +4468,8 @@ uacro.com
 uber-mail.com
 ubismail.net
 ubm.md
+ubuntu.dns-cloud.net
+ubuntu.dnsabr.com
 ucche.us
 ucupdong.ml
 ucylu.com
@@ -4591,6 +4600,8 @@ virginia.usa.com
 viroleni.cu.cc
 virtual-email.com
 visa.coms.hk
+visa.dns-cloud.net
+visa.dnsabr.com
 visal007.tk
 visal168.cf
 visal168.ga
