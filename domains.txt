@@ -119,6 +119,7 @@
 21cn.com
 225522.ml
 22office.com
+23.8.dnsabr.com
 24hourmail.com
 24hourmail.net
 291.usa.cc
@@ -228,6 +229,7 @@
 7rent.top
 7tags.com
 7uy35p.tk
+8.dnsabr.com
 806.flu.cc
 80665.com
 8127ep.com
@@ -542,6 +544,7 @@ ashleyandrew.com
 ashotmail.com
 asia-mail.com
 asia.com
+asia.dnsabr.com
 asiarap.usa.cc
 ask-mail.com
 asooemail.net
@@ -1525,6 +1528,8 @@ etotvibor.ru
 etranquil.com
 etranquil.net
 etranquil.org
+eu.dns-cloud.net
+eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 europe.com
@@ -2072,6 +2077,8 @@ himail.online
 hiphopfan.com
 hiru-dea.com
 hitbts.com
+hitler.dns-cloud.net
+hitler.dnsabr.com
 hix.kr
 hjdosage.com
 hmail.us
@@ -2998,6 +3005,7 @@ mjukglass.nu
 mko.kr
 mkpfilm.com
 ml8.ca
+mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -3605,6 +3613,7 @@ pushmojo.com
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
+pw.8.dnsabr.com
 pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
@@ -5013,6 +5022,8 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
+yop.dns-cloud.net
+yop.dnsabr.com
 yop.ze.cx
 yopmail.com
 yopmail.fr
