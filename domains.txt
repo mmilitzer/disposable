@@ -119,7 +119,6 @@
 21cn.com
 225522.ml
 22office.com
-23.8.dnsabr.com
 24hourmail.com
 24hourmail.net
 291.usa.cc
@@ -228,9 +227,6 @@
 7rent.top
 7tags.com
 7uy35p.tk
-8-8.ddns.net
-8-8.sytes.net
-8.dnsabr.com
 806.flu.cc
 80665.com
 8127ep.com
@@ -545,7 +541,6 @@ ashleyandrew.com
 ashotmail.com
 asia-mail.com
 asia.com
-asia.dnsabr.com
 asiarap.usa.cc
 ask-mail.com
 asooemail.net
@@ -1401,7 +1396,6 @@ email-host.info
 email-jetable.fr
 email-lab.com
 email-list.online
-email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
@@ -1415,6 +1409,7 @@ emailage.gq
 emailage.ml
 emailage.tk
 emailapps.info
+emailate.com
 emaildienst.de
 emaildrop.io
 emailfake.com
@@ -1530,8 +1525,6 @@ etotvibor.ru
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dns-cloud.net
-eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 europe.com
@@ -2542,6 +2535,7 @@ lazyinbox.com
 lazyinbox.us
 lbe.kr
 lcebull.com
+ldaho.biz
 ldop.com
 ldtp.com
 le-tim.ru
@@ -2654,10 +2648,7 @@ lyfestylecreditsolutions.com
 lzoaq.com
 m21.cc
 m2r60ff.com
-m3.dns-cloud.net
-m4.dns-cloud.net
 m4ilweb.info
-m5.dns-cloud.net
 maaill.com
 maboard.com
 macr2.com
@@ -3008,7 +2999,6 @@ mjukglass.nu
 mko.kr
 mkpfilm.com
 ml8.ca
-mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -3393,6 +3383,7 @@ opentrash.com
 opmmedia.ga
 opp24.com
 optician.com
+optimaweb.me
 oranek.com
 orangotango.cf
 orangotango.ga
@@ -3616,8 +3607,6 @@ pushmojo.com
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
-pw.8.dnsabr.com
-pw.email-mail.cf
 pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
@@ -4343,9 +4332,11 @@ tempmail2.com
 tempmaildemo.com
 tempmailer.com
 tempmailer.de
+tempmailo.com
 tempmails.cf
 tempmails.gq
 tempomail.fr
+tempomail.org
 temporamail.com
 temporarily.de
 temporarioemail.com.br
@@ -4363,7 +4354,6 @@ tempting.com
 tempymail.com
 tennessee.usa.com
 ternaklele.ga
-terrapuz.ddns.net
 test.com
 test.de
 testore.co
@@ -4672,12 +4662,6 @@ uyhip.com
 uymail.com
 uyu.kr
 uz6tgwk.com
-v250.cf
-v250.dns-cloud.net
-v250.ga
-v250.gq
-v250.ml
-v250.tk
 vaasfc4.tk
 vaati.org
 vaffanculo.gq
@@ -4815,6 +4799,7 @@ watchfull.net
 watchironman3onlinefreefullmovie.com
 wawi.es
 wazabi.club
+wbdev.tech
 wbml.net
 weave.email
 web-contact.info
@@ -5034,8 +5019,6 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.ze.cx
 yopmail.com
 yopmail.fr
