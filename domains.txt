@@ -947,6 +947,7 @@ clipmail.ml
 clipmail.tk
 cliptik.net
 clixser.com
+cloud-mail.net
 cloud99.pro
 cloud99.top
 cloudns.asia
@@ -1727,6 +1728,7 @@ freelance-france.eu
 freeletter.me
 freemail.ms
 freemail.tweakly.net
+freemaillink.com
 freemails.cf
 freemails.ga
 freemails.ml
@@ -2673,17 +2675,21 @@ mail-address.live
 mail-apps.com
 mail-apps.net
 mail-cart.com
+mail-click.net
 mail-easy.fr
 mail-fake.com
 mail-filter.com
 mail-finder.net
+mail-group.net
 mail-hub.info
 mail-list.top
 mail-me.com
 mail-owl.com
+mail-point.net
 mail-pro.info
 mail-register.com
 mail-share.com
+mail-space.net
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
@@ -2831,6 +2837,7 @@ mailkor.xyz
 maillink.info
 maillink.live
 maillink.top
+maillist.in
 mailmate.com
 mailme.gq
 mailme.ir
@@ -2933,6 +2940,7 @@ max-direct.com
 max-mail.com
 max-mail.info
 max88.club
+maxmail.in
 maxmail.info
 mbe.kr
 mbx.cc
@@ -3651,6 +3659,7 @@ quick-mail.online
 quickemail.info
 quickinbox.com
 quickmail.best
+quickmail.in
 quickmail.nl
 quickmail.rocks
 quickreport.it
@@ -3974,6 +3983,7 @@ sim-simka.ru
 simpleemail.in
 simpleemail.info
 simpleitsecurity.info
+simplemail.in
 simscity.cf
 sin.cl
 sinda.club
