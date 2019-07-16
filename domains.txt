@@ -99,6 +99,7 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
+2.mmspa.cf
 2.sexymail.ooo
 2.tebwinsoi.ooo
 20.dns-cloud.net
@@ -119,6 +120,7 @@
 21cn.com
 225522.ml
 22office.com
+23.8.dnsabr.com
 24hourmail.com
 24hourmail.net
 291.usa.cc
@@ -229,6 +231,9 @@
 7rent.top
 7tags.com
 7uy35p.tk
+8-8.ddns.net
+8-8.sytes.net
+8.dnsabr.com
 806.flu.cc
 80665.com
 8127ep.com
@@ -544,6 +549,7 @@ ashleyandrew.com
 ashotmail.com
 asia-mail.com
 asia.com
+asia.dnsabr.com
 asiarap.usa.cc
 ask-mail.com
 asooemail.net
@@ -947,6 +953,7 @@ clipmail.ml
 clipmail.tk
 cliptik.net
 clixser.com
+cloud-mail.net
 cloud99.pro
 cloud99.top
 cloudns.asia
@@ -1400,6 +1407,7 @@ email-host.info
 email-jetable.fr
 email-lab.com
 email-list.online
+email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
@@ -1527,9 +1535,21 @@ ethersportz.info
 etlgr.com
 etoic.com
 etotvibor.ru
+etr500.cf
+etr500.ga
+etr500.gq
+etr500.ml
+etr500.tk
+etr700.cf
+etr700.ga
+etr700.gq
+etr700.ml
+etr700.tk
 etranquil.com
 etranquil.net
 etranquil.org
+eu.dns-cloud.net
+eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1727,6 +1747,7 @@ freelance-france.eu
 freeletter.me
 freemail.ms
 freemail.tweakly.net
+freemaillink.com
 freemails.cf
 freemails.ga
 freemails.ml
@@ -2654,7 +2675,10 @@ lyfestylecreditsolutions.com
 lzoaq.com
 m21.cc
 m2r60ff.com
+m3.dns-cloud.net
+m4.dns-cloud.net
 m4ilweb.info
+m5.dns-cloud.net
 maaill.com
 maboard.com
 macr2.com
@@ -2673,17 +2697,21 @@ mail-address.live
 mail-apps.com
 mail-apps.net
 mail-cart.com
+mail-click.net
 mail-easy.fr
 mail-fake.com
 mail-filter.com
 mail-finder.net
+mail-group.net
 mail-hub.info
 mail-list.top
 mail-me.com
 mail-owl.com
+mail-point.net
 mail-pro.info
 mail-register.com
 mail-share.com
+mail-space.net
 mail-temp.com
 mail-temporaire.com
 mail-temporaire.fr
@@ -2831,6 +2859,7 @@ mailkor.xyz
 maillink.info
 maillink.live
 maillink.top
+maillist.in
 mailmate.com
 mailme.gq
 mailme.ir
@@ -2933,6 +2962,7 @@ max-direct.com
 max-mail.com
 max-mail.info
 max88.club
+maxmail.in
 maxmail.info
 mbe.kr
 mbx.cc
@@ -3005,6 +3035,7 @@ mjukglass.nu
 mko.kr
 mkpfilm.com
 ml8.ca
+mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -3614,6 +3645,8 @@ pushmojo.com
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
+pw.8.dnsabr.com
+pw.email-mail.cf
 pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
@@ -3651,6 +3684,7 @@ quick-mail.online
 quickemail.info
 quickinbox.com
 quickmail.best
+quickmail.in
 quickmail.nl
 quickmail.rocks
 quickreport.it
@@ -3974,6 +4008,7 @@ sim-simka.ru
 simpleemail.in
 simpleemail.info
 simpleitsecurity.info
+simplemail.in
 simscity.cf
 sin.cl
 sinda.club
@@ -4363,6 +4398,7 @@ tempting.com
 tempymail.com
 tennessee.usa.com
 ternaklele.ga
+terrapuz.ddns.net
 test.com
 test.de
 testore.co
@@ -4672,6 +4708,12 @@ uyhip.com
 uymail.com
 uyu.kr
 uz6tgwk.com
+v250.cf
+v250.dns-cloud.net
+v250.ga
+v250.gq
+v250.ml
+v250.tk
 vaasfc4.tk
 vaati.org
 vaffanculo.gq
@@ -4942,6 +4984,8 @@ wxnw.net
 wyoming.usa.com
 wyvernia.net
 wzukltd.com
+x.dc74.cf
+x.dc74.ml
 x.ip6.li
 x1x.spb.ru
 x1x22716.com
@@ -5029,6 +5073,8 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
+yop.dns-cloud.net
+yop.dnsabr.com
 yop.ze.cx
 yopmail.com
 yopmail.fr
