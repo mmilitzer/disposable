@@ -99,7 +99,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.mmspa.cf
 2.sexymail.ooo
 2.tebwinsoi.ooo
 20.dns-cloud.net
@@ -120,7 +119,6 @@
 21cn.com
 225522.ml
 22office.com
-23.8.dnsabr.com
 24hourmail.com
 24hourmail.net
 291.usa.cc
@@ -231,7 +229,6 @@
 7rent.top
 7tags.com
 7uy35p.tk
-8.dnsabr.com
 806.flu.cc
 80665.com
 8127ep.com
@@ -241,7 +238,6 @@
 8mail.cf
 8mail.ga
 8mail.ml
-8mailpro.com
 8xyz8.dynu.net
 90.volvo-xc.ml
 90.volvo-xc.tk
@@ -548,7 +544,6 @@ ashleyandrew.com
 ashotmail.com
 asia-mail.com
 asia.com
-asia.dnsabr.com
 asiarap.usa.cc
 ask-mail.com
 asooemail.net
@@ -983,15 +978,12 @@ codupmyspace.com
 codyting.com
 cognitiveways.xyz
 coieo.com
-coin-hub.net
 coin-link.com
-coin-mail.com
 coinbroker.club
 coinlink.club
 colafanta.cf
 coldemail.info
 collector.org
-cologno.cf
 colorado.usa.com
 colorweb.cf
 columnist.com
@@ -1409,7 +1401,6 @@ email-host.info
 email-jetable.fr
 email-lab.com
 email-list.online
-email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
@@ -1537,21 +1528,9 @@ ethersportz.info
 etlgr.com
 etoic.com
 etotvibor.ru
-etr500.cf
-etr500.ga
-etr500.gq
-etr500.ml
-etr500.tk
-etr700.cf
-etr700.ga
-etr700.gq
-etr700.ml
-etr700.tk
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dns-cloud.net
-eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1885,10 +1864,6 @@ gfcom.com
 ghosttexter.de
 giacmosuaviet.info
 giaiphapmuasam.com
-giallo.cf
-giallo.gq
-giallo.ml
-giallo.tk
 giantmail.de
 gibit.us
 gifto12.com
@@ -2681,10 +2656,7 @@ lyfestylecreditsolutions.com
 lzoaq.com
 m21.cc
 m2r60ff.com
-m3.dns-cloud.net
-m4.dns-cloud.net
 m4ilweb.info
-m5.dns-cloud.net
 maaill.com
 maboard.com
 macr2.com
@@ -2700,7 +2672,6 @@ magspam.net
 maidlow.info
 mail-2-you.com
 mail-address.live
-mail-app.net
 mail-apps.com
 mail-apps.net
 mail-cart.com
@@ -2718,7 +2689,6 @@ mail-point.net
 mail-pro.info
 mail-register.com
 mail-share.com
-mail-share.net
 mail-space.net
 mail-temp.com
 mail-temporaire.com
@@ -2745,7 +2715,6 @@ mail1.kaohsiung.tv
 mail1.kein.hk
 mail114.net
 mail1a.de
-mail2.dns-cloud.net
 mail2.drama.tw
 mail2.info.tm
 mail2.ntuz.me
@@ -2865,7 +2834,6 @@ mailjunk.gq
 mailjunk.ml
 mailjunk.tk
 mailkor.xyz
-maillink.in
 maillink.info
 maillink.live
 maillink.top
@@ -2895,9 +2863,6 @@ mailox.fun
 mailpick.biz
 mailpm.live
 mailpooch.com
-mailpost.dns-cloud.net
-mailpost.ga
-mailpost.gq
 mailpress.gq
 mailprotech.com
 mailproxsy.com
@@ -3048,7 +3013,6 @@ mjukglass.nu
 mko.kr
 mkpfilm.com
 ml8.ca
-mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -3241,7 +3205,6 @@ net-list.com
 net-shopping.com
 net-solution.info
 net.ua
-net8mail.com
 netmails.com
 netmails.info
 netmails.net
@@ -3659,9 +3622,6 @@ pushmojo.com
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
-pw.8.dnsabr.com
-pw.email-mail.cf
-pw.epac.to
 pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
@@ -4235,7 +4195,6 @@ startfu.com
 startkeys.com
 statdvr.com
 stathost.net
-staticintime.de
 statiix.com
 stattech.info
 stealthypost.org
@@ -4351,7 +4310,6 @@ teleosaurs.xyz
 teleworm.com
 teleworm.us
 tellos.xyz
-temp-cloud.net
 temp-mail.com
 temp-mail.de
 temp-mail.live
@@ -4368,7 +4326,6 @@ temp15qm.com
 temp2.club
 tempail.com
 tempalias.com
-tempcloud.in
 tempcloud.info
 tempe-mail.com
 tempemail.biz
@@ -4454,7 +4411,6 @@ thescrappermovie.com
 theskymail.com
 thespawningpool.com
 theteastory.info
-thetempmail.com
 thetrash.email
 thex.ro
 thietbivanphong.asia
@@ -4726,12 +4682,6 @@ uyhip.com
 uymail.com
 uyu.kr
 uz6tgwk.com
-v250.cf
-v250.dns-cloud.net
-v250.ga
-v250.gq
-v250.ml
-v250.tk
 vaasfc4.tk
 vaati.org
 vaffanculo.gq
@@ -5003,8 +4953,6 @@ wxnw.net
 wyoming.usa.com
 wyvernia.net
 wzukltd.com
-x.dc74.cf
-x.dc74.ml
 x.ip6.li
 x1x.spb.ru
 x1x22716.com
@@ -5092,8 +5040,6 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.ze.cx
 yopmail.com
 yopmail.fr
