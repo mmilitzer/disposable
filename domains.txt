@@ -99,7 +99,6 @@
 2-ch.space
 2.0-00.usa.cc
 2.emailfake.ml
-2.mmspa.cf
 2.sexymail.ooo
 2.tebwinsoi.ooo
 20.dns-cloud.net
@@ -120,7 +119,6 @@
 21cn.com
 225522.ml
 22office.com
-23.8.dnsabr.com
 24hourmail.com
 24hourmail.net
 291.usa.cc
@@ -232,7 +230,6 @@
 7rent.top
 7tags.com
 7uy35p.tk
-8.dnsabr.com
 806.flu.cc
 80665.com
 8127ep.com
@@ -551,7 +548,6 @@ ashleyandrew.com
 ashotmail.com
 asia-mail.com
 asia.com
-asia.dnsabr.com
 asiarap.usa.cc
 ask-mail.com
 asooemail.net
@@ -601,10 +597,6 @@ azazazatashkent.tk
 azcomputerworks.com
 azjuggalos.com
 azmeil.tk
-azzurro.cf
-azzurro.ga
-azzurro.gq
-azzurro.ml
 b.cr.cloudns.asia
 b.yertxenor.tk
 b0.nut.cc
@@ -997,7 +989,6 @@ coinlink.club
 colafanta.cf
 coldemail.info
 collector.org
-cologno.cf
 colorado.usa.com
 colorweb.cf
 columnist.com
@@ -1416,14 +1407,12 @@ email-host.info
 email-jetable.fr
 email-lab.com
 email-list.online
-email-mail.pw
 email-server.info
 email-temp.com
 email-wizard.com
 email.cbes.net
 email.com
 email.net
-email.viola.gq
 email60.com
 emailage.cf
 emailage.ga
@@ -1545,14 +1534,9 @@ ethersportz.info
 etlgr.com
 etoic.com
 etotvibor.ru
-etr500.cf
-etr500.ga
-etr500.gq
 etranquil.com
 etranquil.net
 etranquil.org
-eu.dns-cloud.net
-eu.dnsabr.com
 eu.igg.biz
 euaqa.com
 europe.com
@@ -1892,10 +1876,6 @@ gfcom.com
 ghosttexter.de
 giacmosuaviet.info
 giaiphapmuasam.com
-giallo.cf
-giallo.gq
-giallo.ml
-giallo.tk
 giantmail.de
 gibit.us
 gifto12.com
@@ -1921,7 +1901,6 @@ globaleuro.net
 globaltouron.com
 glubex.com
 glucosegrin.com
-gm.marrone.cf
 gmaildottrick.com
 gmailssdf.com
 gmal.com
@@ -1980,7 +1959,6 @@ grandmamail.com
 grandmasmail.com
 graphic-designer.com
 gratislose.de
-gray.grigio.cf
 great-host.in
 greenhousemail.com
 greenmail.net
@@ -1992,7 +1970,6 @@ greggamel.net
 gregorsky.zone
 gregorygamel.com
 gregorygamel.net
-grey.grigio.cf
 greyjack.com
 grish.de
 griuc.schule
@@ -2116,7 +2093,6 @@ himail.online
 hiphopfan.com
 hiru-dea.com
 hitbts.com
-hitler.dnsabr.com
 hix.kr
 hjdosage.com
 hmail.us
@@ -2690,11 +2666,8 @@ luo.kr
 luv2.us
 lyfestylecreditsolutions.com
 lzoaq.com
-m1.dns-cloud.net
-m2.dns-cloud.net
 m21.cc
 m2r60ff.com
-m3.dns-cloud.net
 m4ilweb.info
 maaill.com
 maboard.com
@@ -2756,7 +2729,6 @@ mail1.kaohsiung.tv
 mail1.kein.hk
 mail114.net
 mail1a.de
-mail2.dns-cloud.net
 mail2.drama.tw
 mail2.info.tm
 mail2.ntuz.me
@@ -2908,9 +2880,6 @@ mailox.fun
 mailpick.biz
 mailpm.live
 mailpooch.com
-mailpost.dns-cloud.net
-mailpost.ga
-mailpost.gq
 mailpress.gq
 mailprotech.com
 mailproxsy.com
@@ -2970,7 +2939,6 @@ marchmail.com
 mark-compressoren.ru
 marketlink.info
 markmurfin.com
-marrone.cf
 martyvole.ml
 maryland.usa.com
 mask03.ru
@@ -3063,7 +3031,6 @@ mjukglass.nu
 mko.kr
 mkpfilm.com
 ml8.ca
-mm.8.dnsabr.com
 mm.my
 mm5.se
 mmail.igg.biz
@@ -3164,7 +3131,6 @@ mxp.dnsabr.com
 my-pomsies.ru
 my-teddyy.ru
 my.efxs.ca
-my.viola.gq
 my.vondata.com.ar
 my10minutemail.com
 myalias.pw
@@ -3609,7 +3575,6 @@ postacin.com
 postalmail.biz
 postemail.net
 postfach2go.de
-postheo.de
 postonline.me
 poutineyourface.com
 powered.name
@@ -3679,9 +3644,6 @@ pushmojo.com
 put2.net
 puttanamaiala.tk
 putthisinyourspamdatabase.com
-pw.8.dnsabr.com
-pw.email-mail.cf
-pw.epac.to
 pw.flu.cc
 pw.igg.biz
 pw.islam.igg.biz
@@ -3850,7 +3812,6 @@ ronnierage.net
 rooftest.net
 rootfest.net
 rosebearmylove.ru
-rosso.ml
 rotaniliam.com
 row.kr
 rowe-solutions.com
@@ -3985,7 +3946,6 @@ servermaps.net
 service4.ml
 services391.com
 sex.dns-cloud.net
-sex.marrone.cf
 sexforswingers.com
 sexical.com
 sexyalwasmi.top
@@ -4148,8 +4108,6 @@ spainmail.com
 spam-be-gone.com
 spam.2012-2016.ru
 spam.care
-spam.dns-cloud.net
-spam.dnsabr.com
 spam.flu.cc
 spam.igg.biz
 spam.la
@@ -4157,7 +4115,6 @@ spam.nut.cc
 spam.org.es
 spam.su
 spam.usa.cc
-spam.viola.gq
 spam4.me
 spamail.de
 spamarrest.com
@@ -4264,7 +4221,6 @@ startfu.com
 startkeys.com
 statdvr.com
 stathost.net
-staticintime.de
 statiix.com
 stattech.info
 stealthypost.org
@@ -4437,7 +4393,6 @@ temporaryforwarding.com
 temporaryinbox.com
 temporarymailaddress.com
 tempr.email
-tempr.email.viola.gq
 tempsky.com
 tempthe.net
 tempting.com
@@ -4756,15 +4711,8 @@ uyhip.com
 uymail.com
 uyu.kr
 uz6tgwk.com
-v250.cf
-v250.dns-cloud.net
-v250.ga
-v250.gq
-v250.ml
-v250.tk
 vaasfc4.tk
 vaati.org
-vacuus.gq
 vaffanculo.gq
 valemail.net
 valhalladev.com
@@ -5036,10 +4984,7 @@ wxnw.net
 wyoming.usa.com
 wyvernia.net
 wzukltd.com
-x.dc74.cf
-x.dc74.ml
 x.ip6.li
-x.marrone.cf
 x1x.spb.ru
 x1x22716.com
 x24.com
@@ -5126,8 +5071,6 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
-yop.dns-cloud.net
-yop.dnsabr.com
 yop.ze.cx
 yopmail.com
 yopmail.fr
