@@ -33,6 +33,7 @@
 10minut.com.pl
 10minut.xyz
 10minute-email.com
+10minute.cf
 10minutemail.be
 10minutemail.cf
 10minutemail.co.uk
@@ -704,6 +705,7 @@ biosor.cf
 birdlover.com
 bit-degree.com
 bit2tube.com
+bitchmail.ga
 bitwerke.com
 bitwhites.top
 bitymails.us
@@ -2608,6 +2610,7 @@ linkedintuts2016.pw
 linshiyouxiang.net
 linuxmail.org
 linuxmail.so
+linuxmail.tk
 linuxpl.eu
 linx.email
 liquidmail.de
@@ -2678,6 +2681,9 @@ lukemail.info
 lukop.dk
 luo.kr
 luv2.us
+luxusmail.gq
+luxusmail.tk
+luxusmail.uk
 lyfestylecreditsolutions.com
 lzoaq.com
 m21.cc
@@ -3415,6 +3421,8 @@ one-time.email
 one2mail.info
 onebiginbox.com
 onecitymail.com
+onedaymail.cf
+onedaymail.ga
 onelegalplan.com
 onemail1.com
 onemoremail.net
