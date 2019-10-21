@@ -1721,6 +1721,11 @@ findu.pl
 fingermouse.org
 fir.hk
 firegook.com
+firema.cf
+firema.ga
+firema.gq
+firema.ml
+firema.tk
 fireman.net
 first-email.net
 first-mail.info
