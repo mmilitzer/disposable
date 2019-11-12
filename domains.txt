@@ -703,9 +703,6 @@ bgtmail.com
 bgx.ro
 bho.hu
 bho.kr
-bianco.cf
-bianco.ga
-bianco.ml
 bidourlnks.com
 big1.us
 bigger.com
@@ -734,7 +731,6 @@ bitymails.us
 biz.st
 bizsearch.info
 bko.kr
-black.bianco.cf
 blackbird.ws
 blackgoldagency.ru
 blackmarket.to
@@ -5055,9 +5051,6 @@ whatifanalytics.com
 whatpaas.com
 whatsaas.com
 whiffles.org
-white.bianco.cf
-white.bianco.ga
-white.bianco.ml
 whitebot.ru
 who.net
 whoever.com
