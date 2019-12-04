@@ -676,6 +676,8 @@ bd.dns-cloud.net
 bdmuzic.pw
 bearsarefuzzy.com
 beck-it.net
+beconfidential.com
+beconfidential.net
 beddly.com
 beefmilk.com
 been-there.com
@@ -752,6 +754,7 @@ bloxter.cu.cc
 bluebottle.com
 bluedumpling.info
 bluewerks.com
+blurme.net
 blutig.me
 bnote.com
 boardermail.com
@@ -1317,6 +1320,7 @@ domozmail.com
 donemail.ru
 dongqing365.com
 donot-reply.com
+dontrackme.com
 dontreg.com
 dontsendmespam.de
 doquier.tk
@@ -2251,6 +2255,7 @@ icantbelieveineedtoexplainthisshit.com
 icemail.club
 icemovie.link
 ichigo.me
+icogneato.co
 icx.in
 icx.ro
 idaho.usa.com
@@ -2367,6 +2372,7 @@ ip6.pp.ua
 ipdeer.com
 ipoo.org
 ippandansei.tk
+ipriva.net
 ipsur.org
 ipswell.com
 irabops.com
@@ -3166,6 +3172,7 @@ moot.es
 mor19.uu.gl
 morahdsl.cf
 moreawesomethanyou.com
+moremobileprivacy.com
 moreorcs.com
 morriesworld.ml
 morsin.com
@@ -3437,6 +3444,7 @@ notsharingmy.info
 now.im
 now.mefound.com
 noway.pw
+nowbuzzoff.com
 nowhere.org
 nowmymail.com
 nowmymail.net
