@@ -15,10 +15,11 @@ class disposableHostGenerator():
                   'https://raw.githubusercontent.com/andreis/disposable/master/blacklist.txt',
                   'https://raw.githubusercontent.com/mmilitzer/disposable/master/mailcom_highrisk.txt' ],
         'file': [ 'blacklist.txt' ],
-        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json' ],
+        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json', 
+                  'https://api4.temp-mail.org/request/domains/format/json' ],
         'sha1': [ 'https://raw.githubusercontent.com/GeroldSetz/Mailinator-Domains/master/mailinator_domains_from_bdea.cc.txt' ],
         'discard.email': [ 'https://tempr.email/about-getDomains=55bea3fee498cb80f4d3060b738a5936.htm' ],
-        'option-select-box': [ 'https://temp-mail.org/en/option/change/', 'https://spamwc.de/' ]
+        'option-select-box': [ 'https://temp-mail.org/en/change/', 'https://spamwc.de/' ]
     }
 
     domain_regex = re.compile(r'^[a-z\d-]{,63}(\.[a-z\d-]{,63})+$')
@@ -54,7 +55,7 @@ class disposableHostGenerator():
                     url,
                     data=None,
                     headers={
-                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0'
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0'
                     }
                 )
 
@@ -70,7 +71,7 @@ class disposableHostGenerator():
             if not isinstance(raw, list):
                 self.verbosePrint('WRN This URL does not contain a JSON array: {0}'.format(url))
                 return
-            lines = list(filter(lambda line: line and isinstance(line, str), raw))
+            lines = list(filter(lambda line: line and isinstance(line, basestring), raw))
         elif fmt == 'option-select-box':
             dom_re = re.compile("""<option value="@?[^"]+">@?([a-z0-9\-\.]+\.[a-z0-9\-\.]+)<\/option>""", re.I)
             lines = dom_re.findall(data.decode(encoding))
