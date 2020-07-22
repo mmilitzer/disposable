@@ -24996,8 +24996,13 @@ discard.ga
 discard.gq
 discard.ml
 discard.tk
+discardemail.cf
+discardemail.ga
+discardmail.cf
 discardmail.com
 discardmail.de
+discardmail.ml
+discardmail.tk
 discfoo.com
 disciples.com
 discjumsa.tk
