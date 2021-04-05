@@ -26,7 +26,7 @@ class disposableHostGenerator():
                   'https://raw.githubusercontent.com/mmilitzer/disposable/master/mailcom_highrisk.txt' ],
         'file': [ 'blacklist.txt' ],
         'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json', 
-                  'https://api4.temp-mail.org/request/domains/format/json', 'https://api.internal.temp-mail.io/api/v2/domains' ],
+                  'https://api.internal.temp-mail.io/api/v2/domains', 'https://web1.temp-mail.org/request/domains/format/json' ],
         'sha1': [ 'https://raw.githubusercontent.com/GeroldSetz/Mailinator-Domains/master/mailinator_domains_from_bdea.cc.txt' ],
         'html': [ 'https://www.guerrillamail.com/en/',
                   'https://10minutemail.com/session/address',
@@ -246,10 +246,10 @@ class disposableHostGenerator():
             return
 
         cookies = {}
-        for (ky, vl) in res.info().items():
-            if ky != 'Set-Cookie':
+        for ky, vl in res.info().items():
+            if ky != 'set-cookie':
                 continue
-
+            vl = vl[vl.index(".AspNetCore"):]
             (ck_name, ck_data) = vl.split('=', 1)
             if ck_name.startswith('__'):
                 continue
@@ -275,14 +275,19 @@ class disposableHostGenerator():
             'cookie': '; '.join(cookie)
         }
 
-        data = self.fetch_url('https://tempmailo.com/changemail?_r=0.9485956772908073', headers=headers)
-        if not data:
-            return data
-
+        retry = 0
         lines = []
-        for line in data.splitlines():
-            (name, domain) = line.decode('utf8').split('@', 1)
-            lines.append(domain)
+        while retry < 15:
+            data = self.fetch_url('https://tempmailo.com/changemail', headers=headers)
+            if not data:
+                return data
+
+            for line in data.splitlines():
+                (name, domain) = line.decode('utf8').split('@', 1)
+                lines.append(domain)
+
+            retry = retry + 1
+            time.sleep(10)
 
         return lines
 
