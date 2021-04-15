@@ -1,5 +1,4 @@
 .impo-text
-.lazy
 0-00.usa.cc
 0-180.com
 0-30-24.com
@@ -29158,7 +29157,6 @@ com-ty.biz
 com-xd5r29y97r.com
 com-xvrv6yt51g.com
 com.ninja
-com.tempmail
 com10293859201.icu
 com3b.com
 com40239049392.icu
@@ -50963,8 +50961,6 @@ gti8xq.us
 gtime.com
 gtk9.com
 gtkesh.com
-gtm.js
-gtm.start
 gtmail.com
 gtmseal.com
 gtntqeryp.ga
