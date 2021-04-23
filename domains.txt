@@ -1,4 +1,6 @@
+.
 .impo-text
+.lazy
 0-00.usa.cc
 0-180.com
 0-30-24.com
@@ -9369,6 +9371,7 @@ acro.video
 acrocephalis.com
 acroexch.us
 acrone.website
+acrossgracealley.com
 acrowizard.com
 acroyoga.academy
 acroyoga.agency
@@ -26418,6 +26421,7 @@ chap-chi.com
 chapar.cf
 chaparmail.tk
 chapedia.net
+chapedia.org
 chapmanfuel.com
 chappy1faiili.ru
 chappy9sagruz.ru
@@ -29157,6 +29161,7 @@ com-ty.biz
 com-xd5r29y97r.com
 com-xvrv6yt51g.com
 com.ninja
+com.tempmail
 com10293859201.icu
 com3b.com
 com40239049392.icu
@@ -29562,6 +29567,7 @@ congtythangmay.top
 conicode.com
 coniemporium.site
 conisay.com
+conisocial.it
 conkeafe.cf
 conkeafe.ga
 conkeafe.gq
@@ -45295,6 +45301,7 @@ forexduel.com
 forexgost.ru
 forexhub.online
 forexjobing.ml
+forexlist.in
 forexmany777.ru
 forexpro.re
 forexregulator.info
@@ -50680,6 +50687,7 @@ grib58.ru
 grid.sale
 gridbabes.com
 gridmauk.com
+gridmire.com
 grietjie.org
 griffeyjrshoesstore.com
 griffeyshoesoutletsale.com
@@ -50961,6 +50969,8 @@ gti8xq.us
 gtime.com
 gtk9.com
 gtkesh.com
+gtm.js
+gtm.start
 gtmail.com
 gtmseal.com
 gtntqeryp.ga
@@ -56288,6 +56298,7 @@ hymonitor.ru
 hynds57.com
 hynlw.info
 hypbtt.xyz
+hype68.com
 hypearound.com
 hypefreehealth.com
 hypehound.com
@@ -57527,6 +57538,7 @@ ilthomar.tk
 iltmail.com
 iluck68.com
 ilucki.net
+iludir.com
 ilumail.com
 ilusila.com
 ilvain.com
@@ -66433,6 +66445,7 @@ laraes.pl
 laraladies.com
 laramail.io
 laras.ru
+laraskey.com
 laravelbuilder.com
 larboardglon.com
 laredonailsalons.com
@@ -68675,6 +68688,7 @@ liviahotel.net
 livingbeyondbethesdaministries.org
 livingclone.com
 livinggivingmore.com
+livinginsurance.co.uk
 livinginsurance.eu
 livingketostyle.com
 livingmarried.com
@@ -74981,6 +74995,7 @@ micmeore.cf
 micmeore.gq
 micmeore.ml
 microcenter.io
+microcreditoabruzzo.it
 microfibers.info
 microhealthworld.com
 microlium.xyz
@@ -84165,6 +84180,7 @@ oneinfra.net
 oneinfra.online
 oneivorycoast.com
 onekindwordproject.org
+onekisspresave.com
 onelastebyte.com
 onelastebyte.net
 onelegalplan.com
@@ -114460,7 +114476,6 @@ triolus.com
 trionym.best
 triosc.best
 tripaat.com
-tripaco.com
 tripanfinance.com
 triparish.net
 tripecmal.cf
@@ -120594,7 +120609,6 @@ vranton.buzz
 vraskrutke.biz
 vrcard.ru
 vrdhy6.club
-vreagles.com
 vredirect.com
 vreeland.agencja-csk.pl
 vreemail.com
@@ -122701,7 +122715,6 @@ whimdinil.ml
 whimdinil.tk
 whimsielab.org
 whipamo.tk
-whipjoy.com
 whiplashh.com
 whirdilt.website
 whirlwinds.xyz
@@ -125603,6 +125616,7 @@ xmjxcy.com
 xmlat.com
 xmljk.us
 xmlkvr.us
+xmlrhands.com
 xmma4c.xyz
 xmmail.ru
 xmmar3.xyz
@@ -126330,6 +126344,7 @@ xudttnik4n.tk
 xuduoshop.com
 xueshenka.com
 xueziwo.com
+xufcopied.com
 xugomuo0.online
 xuiahyobv.shop
 xuj56.us
@@ -128982,7 +128997,6 @@ zbzincs.com
 zc300.gq
 zc3dy5.us
 zc72379.top
-zcai55.com
 zcash-cloud.com
 zcbkh.space
 zchatz.ga
@@ -129895,6 +129909,7 @@ zpkdqkozdopc3mnta.ga
 zpkdqkozdopc3mnta.gq
 zpkdqkozdopc3mnta.ml
 zpkdqkozdopc3mnta.tk
+zplotsuu.com
 zpocu.net
 zpp.su
 zpqvdc.com
