@@ -3,6 +3,9 @@
 import json
 import re
 from six.moves import urllib
+import ssl
+
+import certifi
 import sys
 import hashlib
 import HTMLParser
@@ -11,30 +14,35 @@ import tldextract
 
 class disposableHostGenerator():
     sources = {
-        'list': [ 'https://gist.githubusercontent.com/adamloving/4401361/raw/66688cf8ad890433b917f3230f44489aa90b03b7',
-                  'https://gist.githubusercontent.com/michenriksen/8710649/raw/d42c080d62279b793f211f0caaffb22f1c980912',
+        'list': [ 'https://gist.githubusercontent.com/adamloving/4401361/raw/',
+                  'https://gist.githubusercontent.com/michenriksen/8710649/raw/',
+                  'https://raw.githubusercontent.com/disposable/static-disposable-lists/master/mail-data-hosts-net.txt',
                   'https://gist.githubusercontent.com/smeinecke/78b229031cc885a776c8b84c56e1c5ee/raw/0b2200109d68537c588066d05bc70b6bbe1d312d/generator_email_hosts',
                   'https://raw.githubusercontent.com/wesbos/burner-email-providers/master/emails.txt',
                   'https://raw.githubusercontent.com/martenson/disposable-email-domains/master/disposable_email_blocklist.conf',
                   'https://raw.githubusercontent.com/disposable/disposable/master/blacklist.txt',
                   'https://raw.githubusercontent.com/GeroldSetz/emailondeck.com-domains/master/emailondeck.com_domains_from_bdea.cc.txt',
                   'https://getnada.com/api/v1/domains',
-                  'https://gist.githubusercontent.com/jamesonev/7e188c35fd5ca754c970e3a1caf045ef/raw/23fba92d2d835928a9217198d5a96b8ea1d52c93/disposableEmailDomains.txt',
-                  'https://raw.githubusercontent.com/Steemhunt/mailchecker/master/list.txt',
+                  'https://gist.githubusercontent.com/jamesonev/7e188c35fd5ca754c970e3a1caf045ef/raw/',
                   'https://raw.githubusercontent.com/willwhite/freemail/master/data/disposable.txt',
                   'https://raw.githubusercontent.com/stopforumspam/disposable_email_domains/master/blacklist.txt',
+                  'https://raw.githubusercontent.com/daisy1754/jp-disposable-emails/master/list.txt',
+                  'https://raw.githubusercontent.com/FGRibreau/mailchecker/master/list.txt',
+                  'https://raw.githubusercontent.com/7c/fakefilter/main/txt/data.txt',
                   'https://raw.githubusercontent.com/mmilitzer/disposable/master/mailcom_highrisk.txt' ],
         'file': [ 'blacklist.txt' ],
-        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json', 
-                  'https://api.internal.temp-mail.io/api/v2/domains', 'https://web1.temp-mail.org/request/domains/format/json' ],
+        'json': [ 'https://raw.githubusercontent.com/ivolo/disposable-email-domains/master/index.json',
+                  'https://api.disposablemailbox.com/domains', 
+                  'https://api.internal.temp-mail.io/api/v2/domains', 'https://mob1.temp-mail.org/request/domains/format/json' ],
         'sha1': [ 'https://raw.githubusercontent.com/GeroldSetz/Mailinator-Domains/master/mailinator_domains_from_bdea.cc.txt' ],
         'html': [ 'https://www.guerrillamail.com/en/',
+                  'https://www.trash-mail.com/inbox/',
                   'https://10minutemail.com/session/address',
                   'https://correotemporal.org', 'https://fakemailgenerator.net', 'https://clipmails.com',
                   'https://www.luxusmail.org', 'https://www.temp-mails.com', 'https://lortemail.dk',
-                  'https://tempmail.plus/en/', 'https://mailpoof.com' ],
+                  'https://tempmail.plus/en/' ],
         'discard.email': [ 'https://tempr.email/about-getDomains=55bea3fee498cb80f4d3060b738a5936.htm' ],
-        'option-select-box': [ 'https://temp-mail.org/en/change/', 'https://spamwc.de/' ],
+        'option-select-box': [ ],
         'whitelist': [ 'https://raw.githubusercontent.com/disposable/disposable/master/whitelist.txt' ],
         'whitelist_file': [ 'whitelist.txt' ],
         'custom': [ 'tempmailo' ]
@@ -43,7 +51,7 @@ class disposableHostGenerator():
     scrape_sources = [ 'https://emailfake.com', 'https://mail-temp.com' ]
 
     domain_regex = re.compile(r'^[a-z\d-]{,63}(\.[a-z-]{,63})+$')
-    domain_search_regex = re.compile(r'["\']([a-z\d-]{,63}\.[a-z\-]{,63})["\']')
+    domain_search_regex = re.compile(r'["\'\s>]([a-z\d\.-]{1,63}\.[a-z\-]{2,63})["\'\s<]')
     sha1_regex = re.compile(r'^[a-fA-F0-9]{40}')
     html_re = {
         'generic': re.compile("""<option[^>]*>@?([a-z0-9\-\.\&#;\d+]+)\s*(\(PW\))?<\/option>""", re.I),
@@ -100,7 +108,8 @@ class disposableHostGenerator():
                 headers=headers
             )
 
-            res = urllib.request.urlopen(req, timeout=timeout)
+            context = ssl._create_unverified_context() 
+            res = urllib.request.urlopen(req, timeout=timeout, context=context)
             if raw:
                 return res
             return res.read() or ''
@@ -157,6 +166,10 @@ class disposableHostGenerator():
                 raw = raw['domains']
             if 'email' in raw:
                 s = re.search('^.+?@?([a-z0-9\.-]{1,128})$', raw['email'])
+                if s:
+                    raw = [ s.group(1) ]
+            if 'mailbox' in raw:
+                s = re.search('^.+?@?([a-z0-9\.-]{1,128})$', raw['mailbox'])
                 if s:
                     raw = [ s.group(1) ]
 
